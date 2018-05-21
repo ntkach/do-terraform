@@ -7,3 +7,6 @@
 
 # .tfvars files
 *.tfvars
+
+# Mac Indexes
+.DS_Store
